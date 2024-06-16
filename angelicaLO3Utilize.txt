@@ -7,6 +7,14 @@
 
 <body>
 <p>Angelica C. Inot</p>
+<b>Angelica C. Inot</b>
+<i>Angelica C. Inot</i>
+<u>Angelica C. Inot</u>
+<strike>Angelica C. Inot</strike>
+<tt>Angelica C. Inot</tt>
+<sup>Angelica C. Inot</sup>
+<sub>Angelica C. Inot</sub>
+
 </body>
 
 </html>
